@@ -11,7 +11,7 @@ const config = {
   authentication: {
     options: {
       userName: 'chen', // update me
-      password: 'Willy@5467' // update me
+      password: '----' // update me
     },
     type: 'default'
   },
