@@ -1,0 +1,93 @@
+{
+	"language": "en",
+	"textAngle": 0,
+	"orientation": "Up",
+	"regions": [
+		{
+			"boundingBox": "303,420,258,354",
+			"lines": [
+				{
+					"boundingBox": "459,420,102,80",
+					"words": [
+						{
+							"boundingBox": "459,420,102,80",
+							"text": "ilJM"
+						}
+					]
+				},
+				{
+					"boundingBox": "365,508,133,43",
+					"words": [
+						{
+							"boundingBox": "365,508,133,43",
+							"text": "BOSS"
+						}
+					]
+				},
+				{
+					"boundingBox": "318,556,224,22",
+					"words": [
+						{
+							"boundingBox": "318,556,37,16",
+							"text": "Made"
+						},
+						{
+							"boundingBox": "359,561,30,12",
+							"text": "with"
+						},
+						{
+							"boundingBox": "394,562,64,16",
+							"text": "premium"
+						},
+						{
+							"boundingBox": "463,557,39,15",
+							"text": "coffee"
+						},
+						{
+							"boundingBox": "507,556,35,12",
+							"text": "beans,"
+						}
+					]
+				},
+				{
+					"boundingBox": "328,576,206,19",
+					"words": [
+						{
+							"boundingBox": "328,579,35,16",
+							"text": "enjoy"
+						},
+						{
+							"boundingBox": "367,580,22,13",
+							"text": "the"
+						},
+						{
+							"boundingBox": "394,580,40,13",
+							"text": "finest"
+						},
+						{
+							"boundingBox": "439,582,32,11",
+							"text": "taste"
+						},
+						{
+							"boundingBox": "476,577,14,13",
+							"text": "of"
+						},
+						{
+							"boundingBox": "493,576,41,13",
+							"text": "luxury."
+						}
+					]
+				},
+				{
+					"boundingBox": "303,745,106,29",
+					"words": [
+						{
+							"boundingBox": "303,745,106,29",
+							"text": "sunTORY"
+						}
+					]
+				}
+			]
+		}
+	]
+}
